@@ -1,0 +1,17 @@
+{
+    "bot_key": "PUT YOUR KEY HERE",
+    "keyword": "!sb",
+    "audio": {
+        "uzi-faster": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Olaf.attack1.ogg/revision/latest?cb=20121126172443",
+        "uzi-chop": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Olaf.attack2.ogg/revision/latest?cb=20121126172443",
+        "uzi-axe": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Olaf.attack3.ogg/revision/latest?cb=20121126172443",
+        "uzi-fun": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Olaf.attack4.ogg/revision/latest?cb=20121126172443",
+        "uzi-death": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Olaf.attack5.ogg/revision/latest?cb=20121126172444",
+        "uzi-obliteration": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Olaf.attack6.ogg/revision/latest?cb=20121126172444",
+        "uzi-laugh": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5d/Olaf.laugh1.ogg/revision/latest?cb=20130829034011",
+        "uzi-taunt": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Olaf.taunt.ogg/revision/latest?cb=20121126172550",
+        "uzi-action": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Olaf.move3.ogg/revision/latest?cb=20121126172548",
+        "uzi-going": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Olaf.move4.ogg/revision/latest?cb=20121126172549",
+        "uzi-urge": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Olaf.move5.ogg/revision/latest?cb=20121126172550"
+    }
+}
